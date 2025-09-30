@@ -58,22 +58,17 @@ Here are some ideas to get you started:
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚀 *Add Project Name* | *Short description here* | HTML / CSS / JS |
-| 🧠 *Add Another Project* | *Short description here* | Python |
-
-*(Let me know and I’ll fill them in properly!)*
 
 ---
 
 ### 📫 Connect With Me
 
 <p>
+ <p align="center">
+  <a href="mailto:patrickcudjoeh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/patrickcudjoe1"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- Add LinkedIn or Email if you'd like -->
+  <a href="https://www.instagram.com/cudjoe_dev/?__pwa=1#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 </p>
 
 ---
