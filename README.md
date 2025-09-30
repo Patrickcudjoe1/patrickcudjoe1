@@ -14,3 +14,68 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Banner / Header (Optional) -->
+<h1 align="center">🌙 Hey there, I'm <span style="color:#00FFFF">Patrick Cudjoe</span> 👨🏾‍💻</h1>
+
+<p align="center">
+  <em>Software Engineer | Web Developer | Lifelong Learner</em>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 💻 Passionate about **Web Development**
+- 🧩 I love solving problems with **Python, HTML, CSS, and JavaScript**
+- 🌱 **Currently Learning:** React.js • Django • API Development
+- 🎯 Goal: Build impactful and scalable applications
+
+---
+
+### 🛠 Tech Stack
+
+#### 🌐 Frontend
+`HTML` • `CSS` • `JavaScript`
+
+#### ⚙️ Backend
+`Python` • `Flask / Django (Exploring)`
+
+#### 🔧 Tools & Platforms
+`Git & GitHub` • `VS Code` • `Linux / CLI`
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickcudjoe1&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrickcudjoe1&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=patrickcudjoe1&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚀 *Add Project Name* | *Short description here* | HTML / CSS / JS |
+| 🧠 *Add Another Project* | *Short description here* | Python |
+
+*(Let me know and I’ll fill them in properly!)*
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/patrickcudjoe1"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Add LinkedIn or Email if you'd like -->
+</p>
+
+---
+
+⭐ *Thanks for stopping by! Drop a star ⭐ on any repo you like — it motivates me!*
