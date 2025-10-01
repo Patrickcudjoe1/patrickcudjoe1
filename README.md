@@ -34,14 +34,9 @@ Here are some ideas to get you started:
 
 ### 🛠 Tech Stack
 
-#### 🌐 Frontend
+
 `HTML` • `CSS` • `JavaScript`
-
-#### ⚙️ Backend
-`Python` • `Flask / Django (Exploring)`
-
-#### 🔧 Tools & Platforms
-`Git & GitHub` • `VS Code` • `Linux / CLI`
+`Python`•`Git & GitHub` • `VS Code` 
 
 ---
 
