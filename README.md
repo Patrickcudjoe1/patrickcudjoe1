@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💻 Passionate about **Web Development**
 - 🧩 I love solving problems with **Python, HTML, CSS, and JavaScript**
-- 🌱 **Currently Learning:** React.js • Django • API Development
+- 🌱 **Currently Learning:**   API Development
 - 🎯 Goal: Build impactful and scalable applications
 
 ---
